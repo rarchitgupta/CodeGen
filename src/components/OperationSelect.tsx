@@ -44,7 +44,7 @@ export const OperationSelect = () => {
             Translate To
           </Button>
         </SimpleGrid>
-        <Select
+        {/* <Select
           placeholder="Go"
           variant="filled"
           bg="#15181F"
@@ -57,7 +57,7 @@ export const OperationSelect = () => {
           <option value="option1">Option 1</option>
           <option value="option2">Option 2</option>
           <option value="option3">Option 3</option>
-        </Select>
+        </Select> */}
       </Box>
     </Container>
   );
